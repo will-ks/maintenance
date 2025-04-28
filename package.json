@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run": "serve -s -l 8081"
+    "run": "serve -s -l 443"
   },
   "author": "will-ks",
   "dependencies": {
