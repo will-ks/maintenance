@@ -1,0 +1,12 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "run": "serve -s -l 8081"
+  },
+  "author": "will-ks",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
